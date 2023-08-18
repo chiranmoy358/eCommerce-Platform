@@ -4,7 +4,7 @@
 Dependencies mentioned in package.json and frontend/package.json
 
 For automatic installation of Dependencies:\
-**Backend Dependencies** - `npm i`
+**Backend Dependencies** - `npm i`\
 **Frontend Dependencies** - `cd frontend` ` npm i`
 
 ## Environment Variables
