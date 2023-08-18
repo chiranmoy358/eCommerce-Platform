@@ -3,11 +3,11 @@
 # Install Dependencies
 Dependencies mentioned in package.json and frontend/package.json
 
-For automatic installation of Dependencies:
+For automatic installation of Dependencies:\
 **Backend Dependencies** - `npm i`
 **Frontend Dependencies** - `cd frontend` ` npm i`
 
-## Env Variables
+## Environment Variables
 
 Add a config.env file in backend/config directory and add appropriate variables in order to use the app.
 
